@@ -32,4 +32,4 @@ MyModel::addDynamicRelation('some_relation', function (MyModel $myModel) {
 
 Now you can use the relation `some_relation` as if it's defined in your `MyModel` class.
 
-Motivation Reference: https://stackoverflow.com/a/54065463/4452100
+> Problem & Inspiration: https://stackoverflow.com/a/54065463/4452100
