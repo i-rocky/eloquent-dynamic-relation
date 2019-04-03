@@ -1,0 +1,18 @@
+{
+    "name": "i-rocky/eloquent-dynamic-relation",
+    "description": "Adds dynamic relationship capability to eloquent ORM models",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rocky",
+            "email": "wpkpda@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Rocky\\": "src/"
+        }
+    },
+    "require": {}
+}
