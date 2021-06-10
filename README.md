@@ -1,4 +1,6 @@
-# Dynamic Eloquent Relationship
+# (ABANDONED) Dynamic Eloquent Relationship
+
+See https://laravel.com/docs/8.x/eloquent-relationships#dynamic-relationships
 
 Adds dynamic relationship to Eloquent ORM models
 
